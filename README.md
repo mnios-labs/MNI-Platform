@@ -1,4 +1,6 @@
 # MN-Platform 
+
+mn-platform  
  ├── mn-mcp (Protocol Drivers)  
  │     ├── 🌐 Browser  
  │     ├── ☁️ AWS  
@@ -11,8 +13,6 @@
        ├── 📟 AIoT  
        ├── 🎮 Game Pipeline  
        └── 🛒 Ecommerce  
-
-
 
 ## Directory Structure  
 * 🤖 `/agents`  

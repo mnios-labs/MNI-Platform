@@ -1,5 +1,5 @@
-# MNI-Platform
-MNI-Platform
+# MN-Platform
+MN-Platform
 
 /agents  
 /workflows  

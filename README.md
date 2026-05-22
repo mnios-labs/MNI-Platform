@@ -1,4 +1,19 @@
 # MN-Platform 
+ ├── mn-mcp (Protocol Drivers)  
+ │     ├── 🌐 Browser  
+ │     ├── ☁️ AWS  
+ │     ├── 🎨 Blender  
+ │     ├── 🎥 Video  
+ │     └── 📊 Excel  
+ │  
+ └── mn-workflow (Orchestration Run-times)  
+       ├── 🎯 Google Ads  
+       ├── 📟 AIoT  
+       ├── 🎮 Game Pipeline  
+       └── 🛒 Ecommerce  
+
+
+
 ## Directory Structure  
 * 🤖 `/agents`  
 * ⛓️ `/workflows`  
